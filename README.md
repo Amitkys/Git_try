@@ -1,2 +1,3 @@
 # Git_try
-learning git
+learning git 
+this is under vs code
